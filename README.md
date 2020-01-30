@@ -23,8 +23,9 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 - git
 - pylint
 - black
-- py.test
-- hypothesis
+- [pytest](https://docs.pytest.org/en/latest/) - the unit testing framework
+  - [sam & max - un bon gros guide bien gras sur les tests unitaires en python, partie 3](http://sametmax.com/un-gros-guide-bien-gras-sur-les-tests-unitaires-en-python-partie-3/) - in french, a good blog post explaining why and how to use pytest
+- [hypothesis](https://hypothesis.readthedocs.io/en/latest/) - unit testing for data scientists
 
 ## Code Optimisation
 
