@@ -24,7 +24,7 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 - pylint
 - black
 - [pytest](https://docs.pytest.org/en/latest/) - the unit testing framework
-  - [sam & max - un bon gros guide bien gras sur les tests unitaires en python, partie 3](http://sametmax.com/un-gros-guide-bien-gras-sur-les-tests-unitaires-en-python-partie-3/) - in french, a good blog post explaining why and how to use pytest
+  - [un bon gros guide bien gras sur les tests unitaires en python, partie 3 (sam & max)](http://sametmax.com/un-gros-guide-bien-gras-sur-les-tests-unitaires-en-python-partie-3/) - in french, a good blog post explaining why and how to use pytest
 - [hypothesis](https://hypothesis.readthedocs.io/en/latest/) - unit testing for data scientists
 
 ## Code Optimisation
@@ -37,16 +37,16 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 
 - dvc
 - mlflow
-- [docker](https://www.docker.com/)
-  - [docker for beginners - freecodecamp](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/) - tutorial on how to create a docker application
-  - [docker deeper dive - docker official doc](https://docs.docker.com/get-started/)
+- [docker](https://www.docker.com/) - virtualization to deliver software in packages called containers
+  - [docker for beginners (freecodecamp)](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/) - how to create a docker application
+  - [docker deeper dive (official doc)](https://docs.docker.com/get-started/)
     - Orientation and setup
     - Containerizing an application
     - Deploying to Kubernetes
     - Deploying to Swarm
     - Sharing images on Docker Hub
-  - [docker-compose for beginners - freecodecamp](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa/) - tutorial on how to create a client/server side
-  - [docker-compose manual - docker official doc](https://docs.docker.com/compose/)
+  - [docker-compose for beginners (freecodecamp)](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa/) - how to create a client/server side
+  - [docker-compose manual (official doc)](https://docs.docker.com/compose/)
 
 ## Scalability
 
