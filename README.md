@@ -37,7 +37,16 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 
 - dvc
 - mlflow
-- docker
+- [docker](https://www.docker.com/)
+  - [docker for beginners - freecodecamp](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/) - tutorial on how to create a docker application
+  - [docker deeper dive - docker official doc](https://docs.docker.com/get-started/)
+    - Orientation and setup
+    - Containerizing an application
+    - Deploying to Kubernetes
+    - Deploying to Swarm
+    - Sharing images on Docker Hub
+  - [docker-compose for beginners - freecodecamp](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa/) - tutorial on how to create a client/server side
+  - [docker-compose manual - docker official doc](https://docs.docker.com/compose/)
 
 ## Scalability
 
@@ -73,8 +82,11 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 
 ## Database Setup & Frontend
 
+ - NoSQL Database
+   - [openclassrooms nosql databases](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql/4462433-choisissez-votre-famille-nosql) - open openclassroom link to understand the different nosql databases
 - postgresql/sqlite
 - elasticsearch
+
 
 # Resources
 
