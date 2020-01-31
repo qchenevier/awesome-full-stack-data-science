@@ -74,7 +74,7 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 ## Database Setup & Frontend
 
  - NoSQL Database
-   - [nosql databases](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql/4462433-choisissez-votre-famille-nosql) - open openclassroom link to understand the different nosql databases
+   - [openclassrooms nosql databases](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql/4462433-choisissez-votre-famille-nosql) - open openclassroom link to understand the different nosql databases
 - postgresql/sqlite
 - elasticsearch
 
