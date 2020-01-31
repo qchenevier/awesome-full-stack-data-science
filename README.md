@@ -38,6 +38,8 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 - dvc
 - mlflow
 - docker
+  - [docker for beginners](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/) - tutorial on how to create a docker application
+  - [docker-compose for beginners](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa/) - tutorial on how to create a client/server side n
 
 ## Scalability
 
