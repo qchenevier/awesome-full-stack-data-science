@@ -83,7 +83,7 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 ## Database Setup & Frontend
 
  - NoSQL Database
-   - [openclassrooms nosql databases](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql/4462433-choisissez-votre-famille-nosql) - open openclassroom link to understand the different nosql databases
+   - [Choisissez votre famille NoSQL (openclassrooms)](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql/4462433-choisissez-votre-famille-nosql) - in french, open openclassroom course to understand the different nosql paradigms (key/value store, document store, column oriented vs row oriented, graph database)
 - postgresql/sqlite
 - elasticsearch
 
