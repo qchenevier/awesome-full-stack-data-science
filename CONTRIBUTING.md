@@ -7,7 +7,7 @@ Your contributions are welcome!
 - Add one link per Pull Request.
   - Make sure the PR title is in the format of `Add project-name`.
   - Write down the reason why the library is awesome.
-- Add the link: `- [page-name](http://example.com/) - A short description ends with a period.`
+- Add the link: `- [Awesome example page title (site name)](http://example.com/) - A short description ends with a period.`
   - Keep descriptions concise.
   - INDENTATION of the link:
     - If it's a technology, don't indent: it will be a master link
