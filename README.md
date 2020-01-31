@@ -24,7 +24,7 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 - pylint
 - black
 - [pytest](https://docs.pytest.org/en/latest/) - the unit testing framework
-  - [un bon gros guide bien gras sur les tests unitaires en python, partie 3 (sam & max)](http://sametmax.com/un-gros-guide-bien-gras-sur-les-tests-unitaires-en-python-partie-3/) - in french, a good blog post explaining why and how to use pytest
+  - [un bon gros guide bien gras sur les tests unitaires en python, partie 3 (sam & max)](http://sametmax.com/un-gros-guide-bien-gras-sur-les-tests-unitaires-en-python-partie-3/) - why and how to use pytest (in french 🇫🇷)
 - [hypothesis](https://hypothesis.readthedocs.io/en/latest/) - unit testing for data scientists
 
 ## Code Optimisation
@@ -83,7 +83,7 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 ## Database Setup & Frontend
 
  - NoSQL Database
-   - [Choisissez votre famille NoSQL (openclassrooms)](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql/4462433-choisissez-votre-famille-nosql) - in french, open openclassroom course to understand the different nosql paradigms (key/value store, document store, column oriented vs row oriented, graph database)
+   - [Choisissez votre famille NoSQL (openclassrooms)](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql/4462433-choisissez-votre-famille-nosql) - understand the different nosql paradigms (key/value store, document store, column oriented vs row oriented, graph database) (in french 🇫🇷)
 - postgresql/sqlite
 - elasticsearch
 
