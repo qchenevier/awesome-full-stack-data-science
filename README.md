@@ -39,7 +39,15 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 - mlflow
 - docker
   - [docker for beginners](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f/) - tutorial on how to create a docker application
-  - [docker-compose for beginners](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa/) - tutorial on how to create a client/server side n
+  - [docker deeper dive - official get started](https://docs.docker.com/get-started/)
+    - Orientation and setup
+    - Containerizing an application
+    - Deploying to Kubernetes
+    - Deploying to Swarm
+    - Sharing images on Docker Hub
+
+  - [docker-compose for beginners](https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa/) - tutorial on how to create a client/server side
+  - [docker-compose official product manual](https://docs.docker.com/compose/)
 
 ## Scalability
 
