@@ -90,8 +90,8 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 
 # Resources
 
-[The Book of Secret knowledge (github)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more
-[Tools and Products and Apps and ... for macOS (github)](https://github.com/jaywcjlove/awesome-mac)
+- [The Book of Secret knowledge (github)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more
+- [Tools and Products and Apps and ... for macOS (github)](https://github.com/jaywcjlove/awesome-mac)
 
 # Contributing
 
