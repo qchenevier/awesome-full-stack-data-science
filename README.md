@@ -86,6 +86,8 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
    - [Choisissez votre famille NoSQL (openclassrooms)](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql/4462433-choisissez-votre-famille-nosql) - understand the different nosql paradigms (key/value store, document store, column oriented vs row oriented, graph database) (in french 🇫🇷)
 - postgresql/sqlite
 - elasticsearch
+  - [beginners tutorial on elasticsearch and kibana (openclassrooms)](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql/4474691-etudiez-le-fonctionnement-d-elasticsearch) - understand the functioning of elasticsearch, how to set tup an ELS cluster and ingest data in command line, investigate data and create a simple dashboard with Kibana (in french 🇫🇷)
+  - [Extract of Code Bank Data Engineering (gitlab - The Insighters)](https://gitlab.com/the_insighters/projects/codebankde/-/tree/sophie/src/ELK) - how to set up an ELS cluster with python, ingest data (and more...)
 
 
 # Resources
