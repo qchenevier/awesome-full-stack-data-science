@@ -26,6 +26,9 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 - [pytest](https://docs.pytest.org/en/latest/) - the unit testing framework
   - [un bon gros guide bien gras sur les tests unitaires en python, partie 3 (sam & max)](http://sametmax.com/un-gros-guide-bien-gras-sur-les-tests-unitaires-en-python-partie-3/) - why and how to use pytest (in french 🇫🇷)
 - [hypothesis](https://hypothesis.readthedocs.io/en/latest/) - unit testing for data scientists
+- [method chaining](https://en.wikipedia.org/wiki/Method_chaining) in pandas
+  - [Modern Pandas (Part 2): Method Chaining (Tom Augspurger's blog)](https://tomaugspurger.github.io/method-chaining.html) - the original blog post explaining why & how to use method chaining in pandas
+  - [The Unreasonable Effectiveness of Method Chaining in Pandas (towardsdatascience)](https://towardsdatascience.com/the-unreasonable-effectiveness-of-method-chaining-in-pandas-15c2109e3c69) - inspired by Tom Augspurger's post, post suggesting some clever utility functions to be used in method chaining with pandas
 
 ## Code Optimisation
 
