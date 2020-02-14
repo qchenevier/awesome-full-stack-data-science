@@ -69,6 +69,7 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 - AWS
 - GCP
 - Azure
+- [cortex](https://www.cortex.dev/) - deploy machine learning models in production
 
 ## Deep Learning
 
