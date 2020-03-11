@@ -103,6 +103,7 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 - [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu/) - Nice and simple courses from MIT to stop being a noob with a computer
 - [The Book of Secret knowledge (github)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more
 - [Tools and Products and Apps and ... for macOS (github)](https://github.com/jaywcjlove/awesome-mac)
+- [The 7 Questions You Need to Ask to Operate Deep Learning Infrastructure at Scale (James Le's blog)](https://jameskle.com/writes/deep-learning-infrastructure-tooling)
 
 # Contributing
 
