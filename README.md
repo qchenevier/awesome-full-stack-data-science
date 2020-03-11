@@ -94,6 +94,7 @@ Links to cool tutorials for cool technologies. Inspired by [awesome-python](http
 - elasticsearch
   - [Beginners tutorial on elasticsearch and kibana (openclassrooms)](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql/4474691-etudiez-le-fonctionnement-d-elasticsearch) - understand the functioning of elasticsearch, how to set tup an ELS cluster and ingest data in command line, investigate data and create a simple dashboard with Kibana (in french 🇫🇷)
   - ["Hunting" Elastic ELK stack](https://github.com/Cyb3rWard0g/HELK) - Customized ELK (Elastic-Logstash-Kibana) stack with big data (Kafka/Spark) capabilities to hunt for cybersecurity attacks in logs
+- [streamlit](https://www.streamlit.io/) - an open source python framework to build data science apps
 
 
 # Resources
